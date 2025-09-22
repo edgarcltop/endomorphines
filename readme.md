@@ -60,24 +60,4 @@ And [many others](https://github.com/drcmda/react-spring/network/dependents) ...
 
 If you like this project, consider helping out, ... all contributions are welcome as well as donations to [Opencollective](https://opencollective.com/react-spring) or [Patreon](https://www.patreon.com/0xca0a). You can make one off donations in crypto to 36fuguTPxGCNnYZSRdgdh6Ea94brCAjMbH (BTC).
 
-## Contributors
 
-This project exists thanks to all the people who contribute.
-<a href="https://github.com/drcmda/react-spring/graphs/contributors"><img src="https://opencollective.com/react-spring/contributors.svg?width=890" /></a>
-
-## Backers
-
-Thank you to all our backers! 🙏
-
-<a href="https://opencollective.com/react-spring#backers" target="_blank"><img src="https://opencollective.com/react-spring/backers.svg?width=890"></a>
-
-## Gold sponsors
-
-<a href="https://aragon.org/"><img width="300" src="https://wiki.aragon.org/design/logo/svg/imagetype.svg"></a>
-
-## Sponsors
-
-Support this project by [becoming a sponsor](https://opencollective.com/react-spring#sponsor). Your logo will show up here with a link to your website.
-
-<a href="https://opencollective.com/react-spring/sponsor/0/website" target="_blank"><img src="https://opencollective.com/react-spring/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/react-spring/sponsor/1/website" target="_blank"><img src="https://opencollective.com/react-spring/sponsor/1/avatar.svg"></a>
