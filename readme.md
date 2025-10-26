@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/front/logo.png" width="700" />
-</p>
-
 <p align="middle">
   <img src="assets/spring.gif" width="285" />
   <img src="assets/transitions.gif" width="285" />
@@ -17,17 +13,6 @@
   <img src="assets/reveals.gif" width="285" />
   <img src="assets/morph.gif" width="285" />
 </p>
-<p align="middle">
-  <img src="assets/vertical.gif" width="285" />
-  <img src="assets/horizontal.gif" width="285" />
-  <img src="assets/keyframes-trail.gif" width="285" />
-</p>
-<p align="middle">
-  <img src="assets/dragndrop.gif" width="285" />
-  <img src="assets/stream.gif" width="285" />
-  <img src="assets/time.gif" width="285" />
-</p>
-
 <br />
 
  [![Build Status](https://travis-ci.org/drcmda/react-spring.svg?branch=master)](https://travis-ci.org/drcmda/react-spring) [![npm version](https://badge.fury.io/js/react-spring.svg)](https://badge.fury.io/js/react-spring) [![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/react-spring) <span class="badge-patreon"><a href="https://www.patreon.com/0xca0a" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span> [![Backers on Open Collective](https://opencollective.com/react-spring/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/react-spring/sponsors/badge.svg)](#sponsors)
