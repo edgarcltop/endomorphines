@@ -1,9 +1,4 @@
 <p align="middle">
-  <img src="assets/spring.gif" width="285" />
-  <img src="assets/transitions.gif" width="285" />
-  <img src="assets/trails.gif" width="285" />
-</p>
-<p align="middle">
   <img src="assets/tree.gif" width="285" />
   <img src="assets/sunburst.gif" width="285" />
   <img src="assets/areas.gif" width="285" />
