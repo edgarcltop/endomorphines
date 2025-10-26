@@ -6,6 +6,18 @@
 
 ---
 
+<p align="middle">
+  <img src="assets/tree.gif" width="285" />
+  <img src="assets/sunburst.gif" width="285" />
+  <img src="assets/areas.gif" width="285" />
+</p>
+<p align="middle">
+  <img src="assets/gestures.gif" width="285" />
+  <img src="assets/reveals.gif" width="285" />
+  <img src="assets/morph.gif" width="285" />
+</p>
+<br />
+
 ## ✨ Overview
 
 **endomorphines** is a lightweight, declarative library for handling complex, physics-based animations in React using custom hooks. It is designed to be highly performant, leveraging CSS properties and native browser APIs where possible, making it easy to create smooth, natural motion interfaces.
@@ -74,22 +86,6 @@ The primary hook for defining and running animations.
 
 A simpler hook for animating a single numerical value.
 
-
-<p align="middle">
-  <img src="assets/tree.gif" width="285" />
-  <img src="assets/sunburst.gif" width="285" />
-  <img src="assets/areas.gif" width="285" />
-</p>
-<p align="middle">
-  <img src="assets/gestures.gif" width="285" />
-  <img src="assets/reveals.gif" width="285" />
-  <img src="assets/morph.gif" width="285" />
-</p>
-<br />
-
-
-
-    npm install react-spring
 
 
 
